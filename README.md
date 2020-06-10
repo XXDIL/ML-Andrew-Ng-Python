@@ -1,7 +1,7 @@
 # ML-Andrew-Ng-Python
 ### This is the ML assignment from Coursera in Python.
 
-
+![Cool](https://user-images.githubusercontent.com/66634743/84256646-4059fb80-ab25-11ea-818f-430ff545d3f1.png)
 
 ## About
 This is a work in progress as of now, but if you are finished with the Octave/MATLAB implementation of the programming assignments then this is a must do (IMO). The goal of this Repository is to make it easy to implement the programming Assignments in Python using Pandas and NumPy. In this Repo I have implemented A fully vectorised approach to the problems.
@@ -42,12 +42,12 @@ Navigate to my Repo and open the .ipynb fileas shown below:
 There are a few differences between the Octave Arrays and the ones in NumPy Python
 * Mainly the indexing (0 indexed in Python and 1 indexed in Octave).
 * Column vectors from octave/matlab are now converted into a simple 1-dimensional ndarray.
-Octave/Matlab, 
+<br />Octave/Matlab: 
     ```matlab
     >> size(theta)
     >> (2, 1)
     ```
-    Python
+    Python:
     ```python
     >>> theta.shape
     >>> (2, )
