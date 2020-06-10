@@ -42,12 +42,12 @@ Navigate to my Repo and open the .ipynb fileas shown below:
 There are a few differences between the Octave Arrays and the ones in NumPy Python
 * Mainly the indexing (0 indexed in Python and 1 indexed in Octave).
 * Column vectors from octave/matlab are now converted into a simple 1-dimensional ndarray.
-Octave/Matlab:  
+Octave/Matlab, 
     ```matlab
     >> size(theta)
     >> (2, 1)
     ```
-Python
+    Python
     ```python
     >>> theta.shape
     >>> (2, )
