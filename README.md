@@ -35,7 +35,7 @@ foo@bar:~$ jupyter notebook
 ```
 Navigate to my Repo and open the .ipynb fileas shown below:
 
-![Location](https://drive.google.com/file/d/1DcbiMcdVQGyo1vOK0N9tFry8HK47InFJ/view?usp=sharing)
+![Location](https://user-images.githubusercontent.com/66634743/84252124-4056fd00-ab1f-11ea-8bcf-465bce1b4552.png)
 
 ## Important Note
 There are a couple of things to keep in mind before starting.
