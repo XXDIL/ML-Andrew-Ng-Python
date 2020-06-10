@@ -1,6 +1,7 @@
 # ML-Andrew-Ng-Python
-
 ### This is the ML assignment from Coursera in Python.
+
+
 
 ## About
 This is a work in progress as of now, but if you are finished with the Octave/MATLAB implementation of the programming assignments then this is a must do (IMO). The goal of this Repository is to make it easy to implement the programming Assignments in Python using Pandas and NumPy. In this Repo I have implemented A fully vectorised approach to the problems.
@@ -35,23 +36,22 @@ foo@bar:~$ jupyter notebook
 ```
 Navigate to my Repo and open the .ipynb fileas shown below:
 
-![Location](https://user-images.githubusercontent.com/66634743/84252124-4056fd00-ab1f-11ea-8bcf-465bce1b4552.png)
+<kbd>![Location](https://user-images.githubusercontent.com/66634743/84252124-4056fd00-ab1f-11ea-8bcf-465bce1b4552.png)</kbd>
 
 ## Important Note
-There are a couple of things to keep in mind before starting.
-* all column vectors from octave/matlab are flattened into a simple 1-dimensional ndarray. (e.g., y's and thetas are no longer m x 1 matrix, just a 1-d ndarray with m elements.)
-So in Octave/Matlab, 
+There are a few differences between the Octave Arrays and the ones in NumPy Python
+* Mainly the indexing (0 indexed in Python and 1 indexed in Octave).
+* Column vectors from octave/matlab are now converted into a simple 1-dimensional ndarray.
+Octave/Matlab:  
     ```matlab
     >> size(theta)
     >> (2, 1)
     ```
-    Now, it is
+Python
     ```python
     >>> theta.shape
     >>> (2, )
     ```
-* numpy.matrix is never used, just plain ol' numpy.ndarray
-
 ## Contents
 #### [Exercise 1](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise1)
 * Linear Regression
@@ -66,4 +66,4 @@ So in Octave/Matlab,
 * Neural Networks Learning
 
 ## Solutions
-You can check out my implementation of the assignments [here](https://github.com/nsoojin/coursera-ml-py-sj). I tried to vectorize all the solutions.
+You can check out my implementation of the assignments [here](https://github.com/XXDIL/ML-Andrew-Ng-Python-)
