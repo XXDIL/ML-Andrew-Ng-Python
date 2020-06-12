@@ -64,6 +64,9 @@ There are a few differences between the Octave Arrays and the ones in NumPy Pyth
 * Neural Networks Prediction fuction
 #### [Exercise 4](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise4)
 * Neural Networks Learning
+#### [Exercise 5](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise5)
+* Regularized Linear Regression
+* Bias vs. Variance
 
 ## Solutions
-You can check out my implementation of the assignments [here](https://github.com/XXDIL/ML-Andrew-Ng-Python-)
+You can check out my implementation of the assignments [here](https://github.com/XXDIL/ML-Andrew-Ng-Python)
