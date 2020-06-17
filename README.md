@@ -1,7 +1,8 @@
 # ML-Andrew-Ng-Python
 ### This is the ML assignment from Coursera in Python.
 
-![Cool](https://user-images.githubusercontent.com/66634743/84256646-4059fb80-ab25-11ea-818f-430ff545d3f1.png)
+![Clusters](https://user-images.githubusercontent.com/66634743/84946155-4b9ac180-b0f9-11ea-8d60-453937061b88.gif)
+
 
 ## About
 This is a work in progress as of now, but if you are finished with the Octave/MATLAB implementation of the programming assignments then this is a must do (IMO). The goal of this Repository is to make it easy to implement the programming Assignments in Python using Pandas and NumPy. In this Repo I have implemented A fully vectorised approach to the problems.
