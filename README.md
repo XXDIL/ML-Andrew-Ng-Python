@@ -68,6 +68,15 @@ There are a few differences between the Octave Arrays and the ones in NumPy Pyth
 #### [Exercise 5](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise5)
 * Regularized Linear Regression
 * Bias vs. Variance
+#### [Exercise 6](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise6)
+* Support Vector Machine (SVM)
+* Spam Classifacation
+#### [Exercise 7](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise7)
+* K-means Clustering
+* Principal Component Analysis (PCA)
+#### [Exercise 8](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise8)
+* Anomaly Detection
+* Recommender Systems
 
 ## Solutions
 You can check out my implementation of the assignments [here](https://github.com/XXDIL/ML-Andrew-Ng-Python)
