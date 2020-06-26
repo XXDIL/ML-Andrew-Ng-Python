@@ -112,9 +112,9 @@ There are a few differences between the Octave Arrays and the ones in NumPy Pyth
 
   ![PCA](https://user-images.githubusercontent.com/66634743/85850416-ce88df80-b7bd-11ea-887d-d29b05f771e7.gif)
   
-#### Exercise 8 : 
+#### Exercise 8 : Anomalous Behaviour of the circled points
 
-  
+  ![Anomaly](https://user-images.githubusercontent.com/66634743/85885473-6fdf5800-b7f5-11ea-97eb-178fd59e061c.png)
   
 ## Solutions
 You can check out my implementation of the assignments [here](https://github.com/XXDIL/ML-Andrew-Ng-Python)
