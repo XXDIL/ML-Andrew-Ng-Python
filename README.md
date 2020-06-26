@@ -78,5 +78,43 @@ There are a few differences between the Octave Arrays and the ones in NumPy Pyth
 * Anomaly Detection
 * Recommender Systems
 
+## Cool Stuff you'll learn as you Proceed into the Topic
+
+#### Exercise 1 : The Result of applying Regression to the Training Set.
+  
+  ![Ex1](https://user-images.githubusercontent.com/66634743/85844365-abf1c900-b7b3-11ea-8fa5-4ec84c3324a6.png)
+  
+#### Exercise 2 : These are the figures with different Regularizations
+  
+  | No Regularization (overfitting) |      Regularization       | Too much Regularization |
+  |-------------------------------- | ------------------------	| ----------------------- |
+  | <img src="https://user-images.githubusercontent.com/66634743/85844985-9a5cf100-b7b4-11ea-8401-1bd667bc7277.png"> 	| <img src="https://user-images.githubusercontent.com/66634743/85844979-992bc400-b7b4-11ea-985e-de020b824a50.png"> 	| <img src="https://user-images.githubusercontent.com/66634743/85844976-97fa9700-b7b4-11ea-8aab-b1e7a6fe8cad.png">  |
+  
+#### Exercise 3 : Digit Recognizer using a Neural Network
+
+  | Pridicts 9 |      Pridicts 8       | Pridicts 6 |
+  |-------------------------------- | ------------------------	| ----------------------- |
+  | <img src="https://user-images.githubusercontent.com/66634743/85846151-78fd0480-b7b6-11ea-8de8-8f486ee51353.png"> | <img src="https://user-images.githubusercontent.com/66634743/85846288-a47fef00-b7b6-11ea-8ca9-f9860b2422ee.png">  | <img src="https://user-images.githubusercontent.com/66634743/85846294-a5b11c00-b7b6-11ea-9e44-7e10ea607112.png">  |
+  
+#### Exercise 4 : Visualizing the Hidden Layer ( looks weird )
+
+  <img src ="https://user-images.githubusercontent.com/66634743/85847360-49e79280-b7b8-11ea-964c-2b8e1c283b19.png" width="300" height="300">
+  
+#### Exercise 5 : You need to know the right values of the parameters(lambda, sigma, alpha etc ...)
+
+  ![ex5_2](https://user-images.githubusercontent.com/66634743/85847915-528c9880-b7b9-11ea-94bb-756814ddda92.png)
+  
+#### Exercise 6 : SVM's are cool ..
+
+  ![Ex6](https://user-images.githubusercontent.com/66634743/85848912-14907400-b7bb-11ea-91a8-a5730aff3473.png)
+  
+#### Exercise 7 : Image Comppression using PCA
+
+  ![PCA](https://user-images.githubusercontent.com/66634743/85850416-ce88df80-b7bd-11ea-887d-d29b05f771e7.gif)
+  
+#### Exercise 8 : 
+
+  
+  
 ## Solutions
 You can check out my implementation of the assignments [here](https://github.com/XXDIL/ML-Andrew-Ng-Python)
